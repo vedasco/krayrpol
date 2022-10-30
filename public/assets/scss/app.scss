@@ -1,0 +1,15 @@
+:root {
+    --theme-default: #9B4616
+}
+
+//#9B4616
+
+@import '~bootstrap-scss/bootstrap.scss';
+@import 'font-awesome.scss';
+@import 'theme/variables';
+@import 'theme/style';
+@import 'theme/menu';
+@import 'theme/responsive';
+@import "./slick.scss";
+@import "./slick-theme.scss";
+@import "custom.scss";
